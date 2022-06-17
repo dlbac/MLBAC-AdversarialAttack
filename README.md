@@ -1,6 +1,6 @@
 # MLBAC-AdversarialAttack
 
-`datasets/` directory contains two datasets forked from https://github.com/dlbac/DlbacAlpha/tree/main/dataset/synthetic.
+`datasets/` directory contains two datasets forked from https://github.com/dlbac/DlbacAlpha/tree/main/dataset/synthetic. There the training and test datasets are in seperate files. We combine them and split to train test again before training.
 
 `resnet.py` and `dataloader.py` contain source code of *ResNet* model architecture and train/test data preperation.
 
