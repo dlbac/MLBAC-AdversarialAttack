@@ -6,5 +6,5 @@
 
 `CustomLowProFool.py` contains customized version of *LowProFool* algorithm that supports two APIs for attack simulation.
 
-`MLBACAdversarialAttackSimilation.ipynb` is the Colab notebook file that helps to train initial model, load the model for the adversarial attack simulation, generate accessibility constraint, and imports the APIs from CustomLowProFool to simulate MLBAC adversarial attack.
+`MLBACAdversarialAttackSimilation.ipynb` is a Jupyter Notebook file that helps to train initial model, load the model for the adversarial attack simulation, generate accessibility constraint, and imports the APIs from CustomLowProFool to simulate MLBAC adversarial attack.
  
